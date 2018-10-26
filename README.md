@@ -8,7 +8,7 @@ A list of command to manipulate is provided in the context
 
 ## Main features
 
-'''
+```
 (1)cmd_h(or l): move cursor one character to the left 
 (2)cmd_I(or r): move cursor one character to the right
 (3)cmd_j(or u): move cursor vertically one line up
@@ -22,5 +22,5 @@ next line (if next line exists, else do nothing)
 to be searched is fully in one line.
 (10)cmd_wq(or save): write your representation as text file and save it
 (11)exit(or exit()): Terminate program
-'''
+```
 
