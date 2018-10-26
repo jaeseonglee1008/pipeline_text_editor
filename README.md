@@ -1,6 +1,6 @@
 # pipeline_text_editor
 
-in python
+written in python by Jason Lee
 
 ## How to
 
